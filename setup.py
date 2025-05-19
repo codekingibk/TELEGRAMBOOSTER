@@ -15,8 +15,8 @@ def display_banner():
 {Fore.RED}╚═╗{Fore.CYAN}├┤  │ │ │├─┘
 {Fore.RED}╚═╝{Fore.CYAN}└─┘ ┴ └─┘┴
 
-{Fore.YELLOW}Telegram Member Tool v2.0
-{Fore.RED}Developed by EDWARD
+{Fore.YELLOW}Telegram Member Tool v1.0
+{Fore.RED}Developed by EDWARD, give credits 🤝
 {Fore.CYAN}Contact: +2347019706826
 {Style.RESET_ALL}""")
 
